@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <item>
+        <title>Выйти</title>
+        <url>/Auction/Controller?action=main</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Добавить администатора</title>
+        <url>/Auction/Controller?action=addadmin</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Посмотреть статистику</title>
+        <url>/Auction/Controller?action=statisticadmin</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Работать с товарами</title>
+        <url>/Auction/Controller?action=admindeal</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Работать с тарифами</title>
+        <url>/Auction/Controller?action=admintariff</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Посмотреть прибыль</title>
+        <url>/Auction/Controller?action=showprofit</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Посмотреть информацию</title>
+        <url>/Auction/Controller?action=adminview</url>
+        <class>button</class>
+    </item>
+</root>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <item>
+        <title>Выйти</title>
+        <url>/Auction/Controller?action=main</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Посмотреть ставки</title>
+        <url>/Auction/Controller?action=showthing</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Посмотреть статистику</title>
+        <url>/Auction/Controller?action=statistic</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Пополнить счёт</title>
+        <url>/Auction/Controller?action=tariff</url>
+        <class>button</class>
+    </item>
+    <item>
+        <title>Мой профиль</title>
+        <url>/Auction/Controller?action=profile</url>
+        <class>button</class>
+    </item>
+</root>
